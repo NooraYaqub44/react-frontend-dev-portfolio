@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Noora Yaqub.  I'm working with newest front-end frameworks like Angular, React and Vue. I graduated from Salahaddin University, Erbil with a Bachelor of Software engineering. I'm an Honors graduate from Recoded Coding Bootcamp with a focus on learning Reactjs. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -35,22 +35,28 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Let's Work",
+        "startDate": "2021",
+        "description": "A platform where you can find Projects, Ideas, and People with the same interest as you.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png",
+          "images/portfolio/photography/p4.png",
+          "images/portfolio/photography/p5.png"
         ],
-        "url": "https://github.com",
+        "url": "https://capstone-react-lets-work.vercel.app/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-nextjs-line",
+            "name": "Nextjs"
+          },
+          {
+            "class": "",
+            "name": "chakra-ui"
           }
         ]
       },
@@ -81,37 +87,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Recoded Organizaion",
+        "title": "React Bootcamp",
+        "years": "7.2020 - 11.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Next",
+          "Chakra-ui",
+          "Tailwind-css",
+          "git",
+          "Github",
+          "Firebase",
+          "versel"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Delta Communication",
+        "title": "Supervisor",
+        "years": "10.2020 - 9.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Trello"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Trello",
+          "Excel"
         ]
       }
     ]
