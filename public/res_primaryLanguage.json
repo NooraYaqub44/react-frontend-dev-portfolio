@@ -11,12 +11,11 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Flower Store",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.png"
         ],
         "url": "",
         "technologies": [
@@ -25,12 +24,8 @@
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-tailwind-plain",
+            "name": "tailwind"
           }
         ]
       },
@@ -61,26 +56,21 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Blog Website",
+        "startDate": "2018",
+        "description": "One of the first apps I was working on my College projects. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p1.png"
         ],
-        "url": "https://github.com",
+        
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-Bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
